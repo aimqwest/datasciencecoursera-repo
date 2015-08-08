@@ -1,2 +1,2 @@
 # datasciencecoursera-repo
-This is repository assigned to Coursera Data Science track 
+This repository is assigned to Coursera Data Science track 
